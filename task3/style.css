@@ -1,0 +1,32 @@
+body{
+    background-color: #e2cbed;
+    margin-top: 20px;
+  }
+
+  form{
+    color:#956bff;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 15pt;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffffff;
+  }
+
+  select{
+      color: #956bff;
+  }
+
+  input{
+      color: #956bff;
+  }
+
+  h2{
+      color: #956bff;
+      text-align: center;
+      font-size: 30pt;
+  }
